@@ -1,0 +1,1 @@
+The tic-tac-toe games is for two players. One player plays X and the other player plays O. The players take turns placing their marks on a grid of three-by-three cells. If a given  player gets three marks in a row horizontally, vertically or diagonally, the that player wins the game. This game is developed using javax and awt packages.
